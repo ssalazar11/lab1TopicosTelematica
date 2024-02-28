@@ -1,6 +1,6 @@
 syntax="proto3";
 
-mesasge Product{
+message Product{
     int32 id_product=1;
 }
 
